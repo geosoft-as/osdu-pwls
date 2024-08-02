@@ -1,0 +1,110 @@
+[
+    {
+        "name": "RMIC",
+        "description": "Micro Resistivity"
+    },
+    {
+        "name": "ADEN",
+        "description": "Measures an array of density measurements around the wellbore"
+    },
+    {
+        "name": "SURF",
+        "description": "Measurements made from surface sensors. Could be split out into many different sub-categories (Rig, Gas, BOP, Environmental) but probably not worth it."
+    },
+    {
+        "name": "RIN",
+        "description": "Induction Resistivity"
+    },
+    {
+        "name": "GR",
+        "description": "Gamma Ray"
+    },
+    {
+        "name": "JOINED_GEOPH",
+        "description": "Joined Geophysical Well Logs"
+    },
+    {
+        "name": "REMP",
+        "description": "Electromagnetic Propagation Resistivity"
+    },
+    {
+        "name": "ARIN",
+        "description": "Array Induction Resistivity"
+    },
+    {
+        "name": "FPR",
+        "description": "Formation Pressure"
+    },
+    {
+        "name": "SAMP",
+        "description": "Formation sampling tool. Could be wireline or LWD. Measures flows, and fluid composition"
+    },
+    {
+        "name": "NMR",
+        "description": "Nuclear Magnetic Resonance"
+    },
+    {
+        "name": "NEU",
+        "description": "Neutron"
+    },
+    {
+        "name": "AUX",
+        "description": "Auxiliary"
+    },
+    {
+        "name": "DIR",
+        "description": "Directional measurements, including gravity, magnetic and gyro tools"
+    },
+    {
+        "name": "SP",
+        "description": "Spontaneous Potential"
+    },
+    {
+        "name": "SGR",
+        "description": "Spectral Gamma Ray"
+    },
+    {
+        "name": "INTERP",
+        "description": "Petrophysical Well Log Interpretation"
+    },
+    {
+        "name": "JOINED_PETRO",
+        "description": "Joined Petrophysical Well Logs"
+    },
+    {
+        "name": "AC",
+        "description": "Acoustic"
+    },
+    {
+        "name": "RLL",
+        "description": "Laterolog Resistivity"
+    },
+    {
+        "name": "ARLL",
+        "description": "Array Laterolog Resistivity"
+    },
+    {
+        "name": "DEN",
+        "description": "Density"
+    },
+    {
+        "name": "HDIA",
+        "description": "Hole Diameter (Caliper)"
+    },
+    {
+        "name": "DYN",
+        "description": "Drill string dynamics measurements. Includes downhole WOB, Torque, bending and various vibration modes"
+    },
+    {
+        "name": "AAC",
+        "description": "Array Acoustic"
+    },
+    {
+        "name": "DIP",
+        "description": "Dipmeter"
+    },
+    {
+        "name": "AGR",
+        "description": "Array gamma ray tool. Measures array of gamma ray measurements around the wellbore"
+    }
+]
