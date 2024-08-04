@@ -1,6 +1,6 @@
 # OSDU Practical Well Log Standard (PWLS)
 
-The OSDU _Practical Well Log Standard_ (PWLS) provides an industry-agreed list of logging tool
+The [OSDU](https://osduforum.org/OSDU) _Practical Well Log Standard_ (PWLS) provides an industry-agreed list of logging tool
 classes and a hierarchy of measurement properties and applies all known log mnemonics to them.
 When this information is implemented in stores or software, it supports queries over large
 populations of log data, making it easier for oil and gas professionals to find and use this
@@ -12,19 +12,21 @@ PWLS exists in the following versions:
 * [v2.0](https://energistics.org/sites/default/files/2023-03/pwls_20.htm) (September 30, 2003)
 * [v3.0](https://energistics.org/practical-well-log-standard) (February 25, 2021)
 
-Both are defined by static MS/Excel spreadsheets which represents a problem: The PWLS
+They are defined by static MS/Excel spreadsheets which represents a problem: The PWLS
 contains _dynamic_ content and in order to be useful there must be a way to keep the
 standard continously updated as well as propagating such updates to software and other entities
 that depend on the standard.
 
 
-# GeoSoft PWLS
+# The GeoSoft approach
 
 GeoSoft has adressed the static nature of PWLS by redefining it in the
 [JSON](https://en.wikipedia.org/wiki/JSON)
 format and publishing it on
-[GitHub](https://github.com/geosoft-as/pwls) and thereby utilizing the
-[Git](https://en.wikipedia.org/wiki/Git) distributed versioning control system.
+[GitHub](https://github.com/geosoft-as/pwls)
+and thereby utilizing the
+[Git](https://en.wikipedia.org/wiki/Git)
+distributed versioning control system.
 
 The idea is that PWSL _contributors_ (service companies typically)
 can update the standard through Git
