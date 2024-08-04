@@ -70,15 +70,14 @@ The related [jpwls](https://github.com/geosoft-as/jpwls) repository contains a J
 implementation of the PWLS standard. It can be used in two different ways:
 
 * As a REST API web service where clients can request updated PWLS information at any time
-* As a library (jpwls.jar) that can be embedded in Java applications
+* As a library (jpwls.jar) that can be embedded in any Java application
 
-A REST API _Proof of Concept_ implementation hosted in Amazon Web Services (AWS) is
+A REST API _Proof of Concept_ (PoC) implementation hosted in Amazon Web Services (AWS) is
 available here. This API can be utilized by any technology that can digest JSON formatted
-information. See [jpwls](https://github.com/geosoft-as/jpwls) for detailed information.
+information. See [jpwls](https://github.com/geosoft-as/jpwls) for details.
 
 
 ## Contact
 
 For inqueries on the GeoSoft PWLS implementation please contact
-
 [info@geosoft.no](mailto:info@geosoft.no)
