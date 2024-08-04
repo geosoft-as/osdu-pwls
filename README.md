@@ -33,7 +33,7 @@ and get these reviewed and accepted by OSDU/GeoSoft moderators.
 Software that is using PWLS will then be instantly updated whenever the standard changes.
 
 Using Git as the versioning control system ensures proper version control and traceability
-of all changes, and makes explicit versioning of the standard redundant.
+of changes, and makes _explicit_ versioning of the standard redundant.
 
 
 # Repository content
@@ -46,8 +46,9 @@ The present repository contains the following:
 
 # How to contribute
 
-Make sure you have a GitHub user account, else sign up [here](https://github.com/).
-When this is in place do as follows:
+In order to provide updates to the PWLS standard
+make sure you have a valid GitHub user account, else sign up [here](https://github.com/).
+When this is in place follow this guideline:
 
 1. Go to [pwls](https://github.com/geosoft-as/pwls) and click _Fork_ to create a copy of the repository in your account
 1. Clone the fork to your local machine by `git clone https://github.com/<username>/pwls.git`
