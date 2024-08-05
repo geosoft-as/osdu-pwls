@@ -9,15 +9,15 @@
         "description": "Any data collected from sensors at the surface"
     },
     {
-        "name": "Distributed_Measurement",
-        "description": "Any measurement continuously taken along the wellbore"
-    },
-    {
         "name": "Computed",
         "description": "Interpreted or Computed"
     },
     {
         "name": "Wireline",
         "description": "Wireline"
+    },
+    {
+        "name": "Distributed_Measurement",
+        "description": "Any measurement continuously taken along the wellbore"
     }
 ]
