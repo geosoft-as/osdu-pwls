@@ -50,18 +50,22 @@ The present repository contains the following:
 
 In order to provide updates to the PWLS standard
 make sure you have a valid GitHub user account, else sign up [here](https://github.com/).
-When this is in place follow this guideline:
+When this is in place, please submit standard pull requests to the repository.
+For completeness, a guideline is provided below:
 
 1. Go to [pwls](https://github.com/geosoft-as/pwls) and click _Fork_ to create a copy of the repository in your account
 1. Clone the fork to your local machine by `git clone https://github.com/<username>/pwls.git`
 1. Navigate to the repository's directory: `cd pwls`
 1. Create a new branch for the updates: `git checkout -b <branch-name>`
 1. Make the required changes to the PWLS JSON files
-1. Commit the changes: `git commit -am "Description of your changes"`
+1. Commit the changes: `git commit -am "Description of changes"`
 1. Push changes to your fork: `git push origin <branch-name>`
 1. Go to [pwls](https://github.com/geosoft-as/pwls) and click _New pull request_
-1. Select the branch (<branch-name>) you pushed your changes to
+1. Select the branch (&lt;branch-name&gt;) you pushed your changes to
 1. Submit the pull request with a description of your changes
+
+The changes will then be reviewed/accepted or commented/rejected by the
+repository moderators.
 
 
 ## Associated technologies
