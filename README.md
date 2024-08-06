@@ -77,7 +77,8 @@ implementation of the PWLS standard. It can be used in two different ways:
 * As a library (jpwls.jar) that can be embedded in any Java application
 
 A REST API _Proof of Concept_ (PoC) implementation hosted in Amazon Web Services (AWS) is
-available here. This API can be utilized by any technology that can digest JSON formatted
+available [here](http://13.60.27.155).
+This API can be utilized by any technology that can digest JSON formatted
 information. See [jpwls](https://github.com/geosoft-as/jpwls) for details.
 
 
