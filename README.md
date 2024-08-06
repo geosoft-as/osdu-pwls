@@ -51,7 +51,7 @@ The present repository contains the following:
 In order to provide updates to the PWLS standard
 make sure you have a valid GitHub user account, else sign up [here](https://github.com/).
 When this is in place, please submit standard pull requests to the repository.
-For completeness, a guideline is provided below:
+For completeness, a quick guideline is provided below:
 
 1. Go to [pwls](https://github.com/geosoft-as/pwls) and click _Fork_ to create a copy of the repository in your account
 1. Clone the fork to your local machine by `git clone https://github.com/<username>/pwls.git`
