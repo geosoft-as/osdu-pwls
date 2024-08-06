@@ -64,7 +64,7 @@ For completeness, a quick guideline is provided below:
 1. Select the branch (&lt;branch-name&gt;) you pushed your changes to
 1. Submit the pull request with a description of your changes
 
-The changes will then be reviewed/accepted or commented/rejected by the
+The changes will then be reviewed/accepted/merged or commented/rejected by the
 repository moderators.
 
 
