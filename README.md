@@ -14,13 +14,13 @@ PWLS exists in the following versions:
 
 They are defined by static MS/Excel spreadsheets which represents a problem: The PWLS
 contains _dynamic_ content and in order to be useful there must be a way to keep the
-standard continously updated as well as propagating such updates to software and other entities
+standard continuously updated as well as propagating such updates to software and other entities
 that depend on the standard.
 
 
 ## The GeoSoft approach
 
-GeoSoft has adressed the static nature of PWLS by redefining it in the
+GeoSoft has addressed the static nature of PWLS by redefining it in the
 [JSON](https://en.wikipedia.org/wiki/JSON)
 format and publishing it on
 [GitHub](https://github.com/geosoft-as/pwls)
@@ -35,7 +35,7 @@ and get these reviewed and accepted by OSDU/GeoSoft moderators.
 Software that is using PWLS will then instantly update whenever the standard changes.
 
 Using Git as the versioning control system ensures proper version control and traceability
-of changes, and makes _explicit_ versioning of the standard redundant.
+of changes and makes _explicit_ versioning of the standard redundant.
 
 
 ## Repository content
@@ -79,5 +79,5 @@ information. See [jpwls](https://github.com/geosoft-as/jpwls) for details.
 
 ## Contact
 
-For inqueries on the GeoSoft PWLS implementation please contact
+For inquiries on the GeoSoft PWLS implementation please contact
 [info@geosoft.no](mailto:info@geosoft.no)
