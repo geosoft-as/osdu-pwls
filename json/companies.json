@@ -210,7 +210,7 @@
     },
     {
         "companyCode": 58,
-        "name": "Canrig (added 2009-09-09)"
+        "name": "RigCLOUD"
     },
     {
         "companyCode": 206,
@@ -539,6 +539,26 @@
     {
         "companyCode": 450,
         "name": "Scientific Software"
+    },
+    {
+        "companyCode": 19,
+        "name": "Bardasz"
+    },
+    {
+        "companyCode": 304,
+        "name": "Kongsberg"
+    },
+    {
+        "companyCode": 334,
+        "name": "NOV"
+    },
+    {
+        "companyCode": 365,
+        "name": "Petrolink"
+    },
+    {
+        "companyCode": 429,
+        "name": "SigmaStream"
     },
     {
         "companyCode": 15,
